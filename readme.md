@@ -93,7 +93,7 @@ npm install
 MONGO_URI="mongodb://localhost:27017/your-database-name"
 
 # Frontend URL (adjust if needed)
-ORIGIN="http://localhost:3000"
+ORIGIN="http://localhost:3001"
 
 # Email credentials for sending password resets and OTPs
 EMAIL="your-email@example.com"
@@ -169,11 +169,12 @@ REACT_APP_BASE_URL="http://localhost:8000"
 ### Accessing the Application
 Once both servers are running, you can access them at the following URL's:
 - Backend: http://localhost:8000
-- Frontend: http://localhost:3000
+- Frontend: http://localhost:3001
 
 ## **Bonus**
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
 - [@Nitish-95](https://github.com/Nitish-95)
+
 
